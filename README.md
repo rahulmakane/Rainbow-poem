@@ -1,2 +1,7 @@
 # Rainbow-poem
-rainbow poem 
+rainbow has color
+red
+blue
+green
+purple
+
